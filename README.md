@@ -1,2 +1,2 @@
 # JobPilot-AI
-Smart way to apply jobs
+Smart and fast way to apply jobs
